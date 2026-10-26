@@ -3,8 +3,8 @@
 **Proyecto de Programación Avanzada — Primera entrega**  
 **Base utilizada:** SpaceNav2024 (proyecto inicial proporcionado por el docente)  
 **Tecnologías:** Java, LibGDX, Gradle y Eclipse  
-**Integrantes:** [Nombre y apellido — completar]  
-**Sección / docente / fecha:** [Completar]
+**Integrantes:** [ Paula Henríquez, Karina Madrid y Mauricio Lavín]  
+**Sección / docente / fecha:** [ ICI 2241/ Leonardo Gonzalez - Claudio Cubillos / 25-10-2026]
 
 > **Estado del proyecto:** primera versión de entrega. El código y los recursos del repositorio son la referencia definitiva de las funcionalidades incorporadas. Los campos entre corchetes deben completarse antes de entregar.
 
@@ -300,24 +300,5 @@ Realizar y documentar al menos las siguientes verificaciones en la versión fina
 | Perder todas las vidas | Aparece Game Over | [Pendiente de registrar] |
 | Cambiar de selección a juego | Termina música del menú y empieza música de partida | [Pendiente de registrar] |
 
-## 9. Entregables y evidencia pendiente
 
-**Este README explica el proyecto, pero no reemplaza un informe separado si la pauta lo solicita.** Antes de enviar la primera entrega:
 
-- [ ] Completar integrantes, sección, docente y fecha.
-- [ ] Confirmar JDK/Gradle y árbol real del repositorio.
-- [ ] Agregar capturas del menú, selección, partida, pausa y Game Over.
-- [ ] Crear UML general, incluyendo las clases propias y la relación pertinente con LibGDX.
-- [ ] Crear UML y justificaciones de los cuatro patrones.
-- [ ] Confirmar que el requisito de interfaz y clase abstracta se ajusta a la interpretación de la pauta.
-- [ ] Indicar en el informe archivos **y números de línea reales** para cada requisito.
-- [ ] Comprobar que existan **al menos seis commits reales** subidos a GitHub.
-- [ ] Verificar si el obstáculo rosado fue integrado; corregir la descripción si todavía es solo un asset.
-- [ ] Registrar resultados de pruebas funcionales.
-- [ ] Agregar créditos, licencias y enlaces de recursos externos.
-
-## 10. Autoría y nota sobre los recursos
-
-Proyecto académico desarrollado como modificación y extensión del material **SpaceNav2024**, facilitado por el docente, con fines educativos. **Chiikawa, Hachiware y Usagi** son personajes de una franquicia ajena a este proyecto. Esta adaptación no representa un producto oficial ni implica afiliación con los titulares de los derechos.
-
-**Equipo:** [Completar nombres y contribuciones].
